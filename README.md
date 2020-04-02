@@ -51,10 +51,3 @@ We also made a tflite file from the hdf5 file so that in future the predictions 
 
 If our project helped you save your time. You can give us a cup of coffee. :)
 
-You can donate via PayPal
-
-
-![Super sub](https://raw.githubusercontent.com/SubrataSarkar32/subratasarkar32.github.io/master/images/Supersub(200x200).jpg)
-
-
-[![Donate](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://paypal.me/subratasarkar32)   [Donate](https://paypal.me/subratasarkar32)
